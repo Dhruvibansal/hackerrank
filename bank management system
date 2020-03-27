@@ -1,0 +1,5 @@
+# projects-
+	This is bank management system. There we set options for user to “open an account” ,“deposit amount”, “withdraw amount”,
+“modify an account”, “close an account” and “search the record and display it”.
+	When you modify balance in the account , it will  display the transaction details.
+	And when we withdraw money it should take away the amount withdraw from the balance that is in account.
